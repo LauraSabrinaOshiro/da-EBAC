@@ -1,4 +1,5 @@
-# da-EBAC
-Repositório das aulas de Análise de dados da EBAC
+# D.A.:Controle Versão II 
 
-Hello Github
+*  gasolina.csv: as datas e valores das vendas.
+*  gasolina.png: o gráfico da gasolina.csv.
+*  gasolina.py: é o código que gera o gráfico a partir da gasolina.csv.
